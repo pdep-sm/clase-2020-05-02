@@ -69,6 +69,11 @@ combatir c1 c2
 torneo = foldl1 combatir  
 --es lo mismo en este caso usar foldr1
 
+-- Otros ejemplos de orden superior -- 
+-- ordenar criterio
+-- maxFunc criterio
+-- buscar un elemento en una lista
+
 
 
 
